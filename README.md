@@ -1,8 +1,13 @@
 # João Matheus
 
-Olá mundo.
+<h1> Curso Engenharia de Software na Univille </h1>
+<h1> Linguagens: </h1>
+<ul>
+        <li>HTML</li>
+        <li>CSS</li>
+        <li>JavaScript</li>
+        <li>Java</li>
+        <li>Python</li>
+        <li>SQL</li>
 
-<b> Algum texto </b>
-<i> Algum texto </i>
-<h2> Algum texto </h2>
-<h6> Algum texto </h6>
+
