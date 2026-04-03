@@ -12,20 +12,20 @@
   />
   <img 
   align="center" 
-  alt="HTML" 
+  alt="CSS" 
   height="30" 
   width="40"    
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
   />
   <img 
   align="center" 
-  alt="HTML" 
+  alt="JS" 
   height="30" 
   width="40"    
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
   <img
-  align="center" 
+  align="Python" 
   alt="HTML" 
   height="30" 
   width="40"
@@ -33,14 +33,22 @@
   />
   <img 
   align="center" 
-  alt="HTML" 
+  alt="Java" 
   height="30" 
   width="40"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" 
   />
+  <img 
+  align="center" 
+  alt="PHP" 
+  height="30" 
+  width="40"  
+  src=
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
+  />
   <img
   align="center" 
-  alt="HTML" 
+  alt="SQL" 
   height="30" 
   width="40"  
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqldeveloper/sqldeveloper-original.svg" 
