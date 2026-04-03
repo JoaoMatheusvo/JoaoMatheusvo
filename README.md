@@ -25,8 +25,8 @@
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
   />
   <img
-  align="Python" 
-  alt="HTML" 
+  align="center" 
+  alt="Python" 
   height="30" 
   width="40"
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" 
@@ -43,7 +43,6 @@
   alt="PHP" 
   height="30" 
   width="40"  
-  src=
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"
   />
   <img
